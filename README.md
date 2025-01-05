@@ -51,6 +51,9 @@ Conclusion
 
 This document serves as a valuable resource for understanding how various machine learning techniques can be applied to predict heart disease, along with the challenges and considerations in using real-world medical datasets.
 
-For further information or inquiries, please contact [your email/contact information].
+For further information or inquiries, please contact vesilehan@gmail.com.
 
 Note: Ensure that you have access to the Framingham Heart Study dataset for any hands-on experimentation.
+
+main link : https://www.kaggle.com/code/vesilehan/heart-disease-classifiers
+
